@@ -1,0 +1,19 @@
+.playList{
+    flex:1.5;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+  }
+
+  .addAudio{
+     display: flex;
+     flex-direction: column;
+      gap: 20px;
+
+  }
+  
+  .line{
+    width: 2px;
+    height: calc(100% - 50px);
+    background-color: black;
+  }

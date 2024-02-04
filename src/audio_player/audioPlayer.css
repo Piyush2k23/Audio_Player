@@ -1,0 +1,9 @@
+
+.playArea{
+  display: flex;
+  flex-direction: column;
+  height: calc(100% - 50px);
+  justify-content: space-between;
+  flex:2;
+
+}
